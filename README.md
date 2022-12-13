@@ -7,6 +7,8 @@ desde donde van a ir hasta que van a hacer para disfrutar al maximo su estadia y
 
 -Publico Objetivo:  jovenes de 18 a 35 años
 
+-Integrantes: Emiliano Rodriguez, Gino Lencina, Santiago Juares, Franco Malti, Marcia Veron
+
 -Referentes: 
 
 1) https://tainotour.com
@@ -18,3 +20,5 @@ desde donde van a ir hasta que van a hacer para disfrutar al maximo su estadia y
 4) https://www.buenosaires.tur.ar
 
 5) https://www.buenas-vibras.com.ar
+
+Estas plataformas nos sirvieron para poder organizar nuestro sitio, la interaccion con el usuario y como vender el producto
